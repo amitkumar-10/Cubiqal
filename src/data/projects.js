@@ -28,7 +28,7 @@ export const projects = [
     year: "2024",
     description:
       "A refined corporate floor with executive suites, boardrooms and focused work areas.",
-    images: images("Newtrace", 3),
+    images: images("Newtrace", 4),
   },
   
   {
@@ -38,7 +38,7 @@ export const projects = [
     year: "2024",
     description:
       "A tech-forward lab and office combining workshop areas with sleek collaboration spaces.",
-    images: images("Virya", 16),
+    images: images("Virya", 17),
   },
   {
     id: "Firepro",
@@ -57,6 +57,24 @@ export const projects = [
     description:
         "A vibrant cafe space designed for comfortable seating, relaxing conversations, and a welcoming atmosphere.",
     images: images("Cafe", 7),
+  },
+  {
+    id: "Comed-Kares",
+    title: "Comed Kares",
+    area: "7,000 sq. ft.",
+    year: "2022",
+    description:
+        "A modern and functional interior space designed for Croma Kares Hubballi and Bangalore, combining elegant aesthetics, comfortable layouts, and a welcoming atmosphere.",
+    images: images("ComedKares", 7),
+  },
+   {
+    id: "Ramchander-Associates",
+    title: "Ramchander Associates",
+    area: "1200 sq. ft.",
+    year: "2022",
+    description:
+        "A professional CA office interior designed to create a sophisticated workspace with comfortable seating, a focused atmosphere, and a welcoming environment for clients.",
+    images: images("RamachandraAssociates", 5),
   },
   
 ];
